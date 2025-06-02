@@ -1,0 +1,22 @@
+body {
+font-family: arial;
+}
+h1 {
+	margin-bottom: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	cursor: default;
+	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-width: 1.5px;
+}
+h2 {	
+	cursor: default;
+}
+footer {
+	margin-top: 200px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+th {
+	cursor: default;
+}

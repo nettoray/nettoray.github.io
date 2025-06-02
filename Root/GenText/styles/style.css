@@ -1,0 +1,45 @@
+body {
+background-color: #00479C;
+color: white;
+font-family: arial;
+}
+
+h1 {
+	margin-bottom: 60px;
+	margin-left: 50px;
+	margin-right: 50px;
+	cursor: default;
+}
+div {
+	margin-left: 10px;
+}
+input {
+	margin-top: 15px;
+	margin-left: 30px;
+}
+footer {
+	margin-top: 200px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+textarea {
+	display: inline-block;
+	resize: none;
+	overflow: hidden;
+	margin-left: 10px;
+	width: 40%;
+	max-width: 50%;
+    line-height: 1.5;
+    padding: 10px 10px 100px;
+	border-radius: 3px;
+}
+default_button {
+	text-align: center;
+}
+p {
+	cursor: default;
+}
+select {
+	margin-top: 15px;
+	margin-left: 30px;
+}
