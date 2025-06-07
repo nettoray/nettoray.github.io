@@ -1,6 +1,6 @@
 body {
 margin: 0px;
-font-family: verdana;
+font-family: 'Verdana', system-ui, sans-serif;
 }
 .BANNER {
 background: linear-gradient(90deg, black, white);
